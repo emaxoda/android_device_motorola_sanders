@@ -18,8 +18,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += \
-    $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-lineage
+    $(LOCAL_PATH)/overlay
 
 # These are the hardware-specific features
 PRODUCT_COPY_FILES += \
@@ -363,8 +362,7 @@ PRODUCT_PACKAGES += \
     qti-telephony-common
 
 PRODUCT_BOOT_JARS += \
-    telephony-ext \
-    QPerformance
+    telephony-ext
 
 # Sensors
 PRODUCT_COPY_FILES += \
