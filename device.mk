@@ -127,18 +127,9 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/gps/etc/xtwifi.conf:system/vendor/etc/xtwifi.conf \
     $(LOCAL_PATH)/gps/etc/cacert_location.pem:system/vendor/etc/cacert_location.pem
 
-# LineageActions
-PRODUCT_PACKAGES += \
-    LineageActions
-
-#Lineage HALs
-# Trust
-PRODUCT_PACKAGES += \
-    vendor.lineage.trust@1.0-service
-
-# LiveDisplay native
-PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@2.0-service-sdm
+# MotoActions
+#PRODUCT_PACKAGES += \
+#    MotoActions
 
 # Display
 PRODUCT_PACKAGES += \
