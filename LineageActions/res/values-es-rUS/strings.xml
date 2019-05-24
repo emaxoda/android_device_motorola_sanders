@@ -40,7 +40,7 @@
     <string name="fingerprint_swipe_right_dlg_title">Seleccionar acción para deslizamiento a la derecha</string>
 
     <!-- Fingerprint gestures screen off -->
-    <string name="fingerprint_gestures_screenoff_title">Acciones con la pantalla apagada</string>
+    <string name="fingerprint_gestures_screenoff_title">Gestos con la pantalla apagada</string>
     <string name="fingerprint_gestures_screenoff_summary">Habilitar gestos de Sensor Biométrico con la pantalla apagada.\n\El desbloqueo con Sensor Biométrico debe estar deshabilitado para usar esta característica.</string>
     <string name="fingerprint_actions_screenoff">Acciones con la pantalla apagada</string>
 
@@ -51,7 +51,7 @@
     <string name="action_wake">Despertar</string>
     <string name="action_back">Atras</string>
     <string name="action_recents">Recientes</string>
-    <string name="action_last_app">Ultima app</string>
+    <string name="action_last_app">Última app</string>
     <string name="action_volume_up">Subir Volumen</string>
     <string name="action_volume_down">Bajar Volumen</string>
     <string name="action_voice_assistant">Asistente de voz</string>
@@ -59,7 +59,7 @@
     <string name="action_previous_track">Pista anterior</string>
     <string name="action_next_track">Siguiente Pistak</string>
     <string name="action_flashlight">Linterna on/off</string>
-    <string name="action_camera">Abrir Camara</string>
+    <string name="action_camera">Abrir Cámara</string>
     <string name="action_screenshot">Captura de pantalla</string>
     <string name="action_browser">Abrir navegador</string>
     <string name="action_dialer">Abrir Telefono</string>
@@ -67,7 +67,7 @@
     <string name="action_messages">Abrir app de mensajes</string>
 
     <!-- Screen off gestures -->
-    <string name="screen_off_gestures_title">Acciones con la pantalla apagada</string>
+    <string name="screen_off_gestures_title">Gestos con la pantalla apagada</string>
     <string name="screen_off_gestures_manage_summary">Habilitar gestos con la pantalla apagada</string>
     <string name="screen_off_gestures_swipe_left_title">Dezlizar a la izquierda</string>
     <string name="screen_off_gestures_swipe_left_dlg_title">Seleccionar acción para deslizamiento a la izquierda</string>
