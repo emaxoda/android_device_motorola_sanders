@@ -14,19 +14,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Title and summary -->
-    <string name="moto_actions_title">Moto Acciones</string>
+    <string name="moto_actions_title">Moto Actions</string>
 
     <!-- Device gestures -->
-    <string name="device_gestures_title">Gestos de Dispositivo</string>
+    <string name="device_gestures_title">Gestos del Dispositivo</string>
     <string name="device_gestures_summary">Configurar gestos</string>
 
     <!-- Ambient display gestures -->
     <string name="ambient_display_manage_summary">Configurar gestos de Pantalla Ambiente</string>
 
     <!-- Fingerprint gestures -->
-    <string name="fingerprint_gestures_title">Gestos de Sensor Biométrico</string>
-    <string name="fingerprint_gestures_summary">Habilitar gestos de Sensor Biométrico</string>
-    <string name="fingerprint_gestures_manage_summary">Configurar gestos de Sensor Biométrico</string>
+    <string name="fingerprint_gestures_title">Gestos del Sensor Biométrico</string>
+    <string name="fingerprint_gestures_summary">Habilitar gestos del Sensor Biométrico</string>
+    <string name="fingerprint_gestures_manage_summary">Configurar gestos del Sensor Biométrico</string>
     <string name="fingerprint_actions_screenon">Acciones con la pantalla prendida</string>
     <string name="fingerprint_tap_title">Un toque</string>
     <string name="fingerprint_tap_dlg_title">Seleccionar acción para un toque</string>
@@ -34,9 +34,9 @@
     <string name="fingerprint_double_tap_dlg_title">Seleccionar acción para doble toque</string>
     <string name="fingerprint_long_tap_title">Toque prolongado</string>
     <string name="fingerprint_long_tap_dlg_title">Seleccionar acción para toque prolongado</string>
-    <string name="fingerprint_swipe_left_title">Dezlizar a la izquierda</string>
+    <string name="fingerprint_swipe_left_title">Deslizar a la izquierda</string>
     <string name="fingerprint_swipe_left_dlg_title">Seleccionar acción para deslizamiento a la izquierda</string>
-    <string name="fingerprint_swipe_right_title">Dezlizar a la derecha</string>
+    <string name="fingerprint_swipe_right_title">Deslizar a la derecha</string>
     <string name="fingerprint_swipe_right_dlg_title">Seleccionar acción para deslizamiento a la derecha</string>
 
     <!-- Fingerprint gestures screen off -->
@@ -45,7 +45,7 @@
     <string name="fingerprint_actions_screenoff">Acciones con la pantalla apagada</string>
 
     <!-- Actions -->
-    <string name="action_none">Nada</string>
+    <string name="action_none">Ninguno</string>
     <string name="action_home">Home</string>
     <string name="action_power">Pantalla on/off</string>
     <string name="action_wake">Despertar</string>
@@ -69,9 +69,9 @@
     <!-- Screen off gestures -->
     <string name="screen_off_gestures_title">Gestos con la pantalla apagada</string>
     <string name="screen_off_gestures_manage_summary">Habilitar gestos con la pantalla apagada</string>
-    <string name="screen_off_gestures_swipe_left_title">Dezlizar a la izquierda</string>
+    <string name="screen_off_gestures_swipe_left_title">Deslizar a la izquierda</string>
     <string name="screen_off_gestures_swipe_left_dlg_title">Seleccionar acción para deslizamiento a la izquierda</string>
-    <string name="screen_off_gestures_swipe_right_title">Dezlizar a la derecha</string>
+    <string name="screen_off_gestures_swipe_right_title">Deslizar a la derecha</string>
     <string name="screen_off_gestures_swipe_right_dlg_title">Seleccionar acción para deslizamiento a la derecha</string>
     <string name="screen_off_gestures_swipe_up_title">Deslizar hacia arriba</string>
     <string name="screen_off_gestures_swipe_up_dlg_title">Seleccionar acción para deslizamiento hacia arriba</string>
@@ -84,10 +84,10 @@
 
    <!-- Screen off gestures haptic feedback -->
    <string name="haptic_feedback">Reacción tactil</string>
-   <string name="haptic_feedback_summary">Vibrar cuando una acción tactil es detectada</string>
+   <string name="haptic_feedback_summary">Vibra cuando una acción tactil es detectada</string>
    
    <!-- Proximity sensor -->
    <string name="allow_proximity_sensor_title">Usar sensor de proximidad</string>
-   <string name="allow_proximity_sensor_summary">Comprobar sensor de proximidad antes de realizar una acción</string>
+   <string name="allow_proximity_sensor_summary">Comprueba el sensor de proximidad antes de realizar una acción</string>
 
 </resources>
