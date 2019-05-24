@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2016 The CyanogenMod Project
+               (C) 2017 The LineageOS Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title and summary -->
+    <string name="moto_actions_title">Moto Acciones</string>
+
+    <!-- Device gestures -->
+    <string name="device_gestures_title">Gestos de Dispositivo</string>
+    <string name="device_gestures_summary">Configurar gestos</string>
+
+    <!-- Ambient display gestures -->
+    <string name="ambient_display_manage_summary">Configurar gestos de Pantalla Ambiente</string>
+
+    <!-- Fingerprint gestures -->
+    <string name="fingerprint_gestures_title">Gestos de Sensor Biométrico</string>
+    <string name="fingerprint_gestures_summary">Habilitar gestos de Sensor Biométrico</string>
+    <string name="fingerprint_gestures_manage_summary">Configurar gestos de Sensor Biométrico</string>
+    <string name="fingerprint_actions_screenon">Acciones con la pantalla prendida</string>
+    <string name="fingerprint_tap_title">Un toque</string>
+    <string name="fingerprint_tap_dlg_title">Seleccionar acción para un toque</string>
+    <string name="fingerprint_double_tap_title">Doble toque</string>
+    <string name="fingerprint_double_tap_dlg_title">Seleccionar acción para doble toque</string>
+    <string name="fingerprint_long_tap_title">Toque prolongado</string>
+    <string name="fingerprint_long_tap_dlg_title">Seleccionar acción para toque prolongado</string>
+    <string name="fingerprint_swipe_left_title">Dezlizar a la izquierda</string>
+    <string name="fingerprint_swipe_left_dlg_title">Seleccionar acción para deslizamiento a la izquierda</string>
+    <string name="fingerprint_swipe_right_title">Dezlizar a la derecha</string>
+    <string name="fingerprint_swipe_right_dlg_title">Seleccionar acción para deslizamiento a la derecha</string>
+
+    <!-- Fingerprint gestures screen off -->
+    <string name="fingerprint_gestures_screenoff_title">Acciones con la pantalla apagada</string>
+    <string name="fingerprint_gestures_screenoff_summary">Habilitar gestos de Sensor Biométrico con la pantalla apagada.\n\El desbloqueo con Sensor Biométrico debe estar deshabilitado para usar esta característica.</string>
+    <string name="fingerprint_actions_screenoff">Acciones con la pantalla apagada</string>
+
+    <!-- Actions -->
+    <string name="action_none">Nada</string>
+    <string name="action_home">Home</string>
+    <string name="action_power">Pantalla on/off</string>
+    <string name="action_wake">Despertar</string>
+    <string name="action_back">Atras</string>
+    <string name="action_recents">Recientes</string>
+    <string name="action_last_app">Ultima app</string>
+    <string name="action_volume_up">Subir Volumen</string>
+    <string name="action_volume_down">Bajar Volumen</string>
+    <string name="action_voice_assistant">Asistente de voz</string>
+    <string name="action_play_pause">Reproducir/Pausa</string>
+    <string name="action_previous_track">Pista anterior</string>
+    <string name="action_next_track">Siguiente Pistak</string>
+    <string name="action_flashlight">Linterna on/off</string>
+    <string name="action_camera">Abrir Camara</string>
+    <string name="action_screenshot">Captura de pantalla</string>
+    <string name="action_browser">Abrir navegador</string>
+    <string name="action_dialer">Abrir Telefono</string>
+    <string name="action_email">Abrir app de email</string>
+    <string name="action_messages">Abrir app de mensajes</string>
+
+    <!-- Screen off gestures -->
+    <string name="screen_off_gestures_title">Acciones con la pantalla apagada</string>
+    <string name="screen_off_gestures_manage_summary">Habilitar gestos con la pantalla apagada</string>
+    <string name="screen_off_gestures_swipe_left_title">Dezlizar a la izquierda</string>
+    <string name="screen_off_gestures_swipe_left_dlg_title">Seleccionar acción para deslizamiento a la izquierda</string>
+    <string name="screen_off_gestures_swipe_right_title">Dezlizar a la derecha</string>
+    <string name="screen_off_gestures_swipe_right_dlg_title">Seleccionar acción para deslizamiento a la derecha</string>
+    <string name="screen_off_gestures_swipe_up_title">Deslizar hacia arriba</string>
+    <string name="screen_off_gestures_swipe_up_dlg_title">Seleccionar acción para deslizamiento hacia arriba</string>
+    <string name="screen_off_gestures_swipe_down_title">Deslizar hacia abajo</string>
+    <string name="screen_off_gestures_swipe_down_dlg_title">Seleccionar acción para deslizamiento hacia abajo</string>
+
+   <!-- Double tap to wake -->
+   <string name="tap_to_wake">Tocar para despertar</string>
+   <string name="tap_to_wake_summary">Toca dos veces la pantalla para despertar el dispositivo</string>
+
+   <!-- Screen off gestures haptic feedback -->
+   <string name="haptic_feedback">Reacción tactil</string>
+   <string name="haptic_feedback_summary">Vibrar cuando una acción tactil es detectada</string>
+   
+   <!-- Proximity sensor -->
+   <string name="allow_proximity_sensor_title">Usar sensor de proximidad</string>
+   <string name="allow_proximity_sensor_summary">Comprobar sensor de proximidad antes de realizar una acción</string>
+
+</resources>
